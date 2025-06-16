@@ -1,2 +1,2 @@
 # Tarjeta-IB
-este repsoditorio guardara los codigos de la tarjeta digital que vamos hacer
+este repositorio guardará los códigos de la tarjeta digital que vamos a hacer
